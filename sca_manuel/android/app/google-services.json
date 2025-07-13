@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508610554516",
+    "project_id": "konusmakocu-db49b",
+    "storage_bucket": "konusmakocu-db49b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508610554516:android:dbe57a5f62b81773fd6281",
+        "android_client_info": {
+          "package_name": "com.example.sca_manuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXkj2U-7vA9o-e6JClS5rIZJrw4UB79gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508610554516:android:bee3313db5ad9db9fd6281",
+        "android_client_info": {
+          "package_name": "com.example.speech_coach_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXkj2U-7vA9o-e6JClS5rIZJrw4UB79gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
