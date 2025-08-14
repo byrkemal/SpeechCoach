@@ -32,4 +32,5 @@ Bu proje, Türkçe telaffuz becerilerini geliştirmek amacıyla geliştirilen bi
      flutter run
 
 Ekran Görüntüleri   
-![Uploading WhatsApp Image 2025-08-14 at 14.09.47 (3).jpeg…]()
+![WhatsApp Image 2025-08-14 at 14 09 47 (3)](https://github.com/user-attachments/assets/0165216c-aa33-4f54-9c6a-ca2158f2e1cc)
+
