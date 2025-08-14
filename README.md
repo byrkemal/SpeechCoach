@@ -34,3 +34,6 @@ Bu proje, Türkçe telaffuz becerilerini geliştirmek amacıyla geliştirilen bi
 Ekran Görüntüleri   
 ![WhatsApp Image 2025-08-14 at 14 09 47 (3)](https://github.com/user-attachments/assets/0165216c-aa33-4f54-9c6a-ca2158f2e1cc)
 
+![WhatsApp Image 2025-08-14 at 14 09 47 (2)](https://github.com/user-attachments/assets/8c7e5079-0c05-4215-b4a1-280df1fc0b6c)
+
+
