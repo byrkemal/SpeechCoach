@@ -11,19 +11,16 @@
 
 - [Proje Hakkında](#-proje-hakkında)
 - [Özellikler](#-özellikler)
-- [Ekran Görüntüleri](#-ekran-görüntüleri)
 - [Teknolojiler](#-teknolojiler)
 - [Kurulum](#-kurulum)
-- [Kullanım](#-kullanım)
-- [Proje Yapısı](#-proje-yapısı)
-- [Katkıda Bulunma](#-katkıda-bulunma)
+- [Ekran Görüntüleri](#-ekran-görüntüleri)
 - [İletişim](#-iletişim)
 
 ## 🎯 Proje Hakkında
 
 Bu proje, Türkçe telaffuz becerilerini geliştirmek amacıyla geliştirilen bir mobil uygulamadır. Uygulama, doğal dil işleme (NLP) teknolojileri ve gerçek zamanlı ses analizi ile kullanıcıların konuşma hatalarını tespit ederek görsel geri bildirim sunar.
 
-### 🌟 Ana Özellikler
+### 🌟 Özellikler
 
 - **Gerçek Zamanlı Ses Tanıma:** Vosk açık kaynak motoru ile offline çalışabilme.
 - **Telaffuz Analizi:** Levenshtein mesafesi algoritması ile kelime benzerlik skoru hesaplama.
@@ -55,12 +52,13 @@ Bu proje, Türkçe telaffuz becerilerini geliştirmek amacıyla geliştirilen bi
 3. Vosk modelini indirip assets klasörüne ekleyin.
    ```bash
    Modeli resmi siteden indirin: [Vosk Modelleri](https://alphacephei.com/vosk/models)
+   ```
    
-
 4. Uygulamayı çalıştırın:
    ```bash
    flutter run
    ```
+   
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
